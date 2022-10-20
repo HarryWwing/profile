@@ -1,0 +1,147 @@
+
+.top-container{
+    background-color: rgb(203, 238, 226);
+    padding-top: 200px;
+    position: relative;
+       
+}
+body{
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+
+}
+
+h1{
+    margin:50px auto 0 auto;
+    font-size: 70px;
+    color: lightseagreen;
+    font-family: 'Sacramento', cursive;
+}
+h2 {
+    padding: 0 auto 20px;
+    margin:0 auto 0;
+    color: lightseagreen;
+    
+}
+h3{
+    color: deepskyblue;
+}
+.line{
+    border: dotted lightgrey 3px;
+    border-bottom: none;
+    width: 20px;
+    margin-bottom: 100px;
+}
+.wowgaleng{
+  margin:50px auto 50px;
+  border-radius: 50%;
+  width: 10rem;
+  height: 10rem;
+
+  
+}
+.nice{
+    width:200px;
+    height: 200px;
+    float: left;
+    margin-right: 20px;
+    background-color: rgb(107, 159, 255);
+    border-radius: 50%;
+
+    
+
+}
+
+.skill-row{
+    width: 50%;
+    margin:100px auto 200px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+.sushi{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(134, 53, 53);
+    border-radius: 50%;
+    float: right;
+    margin-left: 20px;
+     
+
+}
+
+p{
+    font-family: 'Arapey', serif;
+    font-size:20px;
+}
+.pSelf{
+    font-family: 'Varela Round', sans-serif;
+    padding-bottom: 100px;
+}
+.cloud1, .cloud2{
+    height: 200px;
+    width:300px;
+}
+.Web{
+    text-decoration: underline;
+}
+.cloud1{
+    position: absolute;
+    top:70px;
+    right:150px;
+    
+   
+}
+.cloud2{
+    position: absolute;
+    left:200px;
+    top: 350px;
+}
+.mountain{
+ width:50%;
+ margin-top: 100px;
+
+}
+.bottom-container{
+    background-color: rgb(77, 188, 221);
+    padding: 50px 0 20px;
+}
+a{
+    color: rgb(22, 158, 151);
+    text-decoration: none;
+    margin:10px 5px;
+}
+a:hover{
+    color: aliceblue;
+
+}
+.wewang{
+    padding: 20px 0;
+}
+.btn {
+	box-shadow: -1px 9px 11px -6px #2d494d;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:16px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Varela Round', sans-serif;
+	font-size:17px;
+    margin: 50px auto 50px;
+	padding:12px 19px;
+	text-decoration:none;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+.suggestions{
+    width: 500px;
+    margin: 50px auto 0px;
+}
